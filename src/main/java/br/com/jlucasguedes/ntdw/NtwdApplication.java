@@ -1,4 +1,4 @@
-package br.com.jlucasguedes.ntwd;
+package br.com.jlucasguedes.ntdw;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
